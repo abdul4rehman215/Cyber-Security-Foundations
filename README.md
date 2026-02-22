@@ -1,4 +1,4 @@
-# 🚀 Cyber Security Foundations (1–20)
+# 🚀 Cyber Security Foundations 
 
 <div align="center">
 
