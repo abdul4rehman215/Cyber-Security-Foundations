@@ -1,52 +1,63 @@
-# ===============================
-# OS & Editor
-# ===============================
+# =====================================================
+# OS & Editor Files
+# =====================================================
 .DS_Store
 Thumbs.db
 .vscode/
 .idea/
 *.swp
-*.bak
+*.swo
+*~
 
-# ===============================
-# Python
-# ===============================
+# =====================================================
+# Python Artifacts
+# =====================================================
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-.env
-.venv
-venv/
-pip-log.txt
+*.pyc.*
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 
-# ===============================
-# Logs & Outputs
-# ===============================
+# Virtual Environments
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+
+# =====================================================
+# Logs & Runtime Output
+# (Uncomment specific patterns if you want to track lab evidence logs)
+# =====================================================
 *.log
 logs/
 alerts/
 reports/
+monitoring_logs/
+security-lab/logs/
+
+# =====================================================
+# Scan & Analysis Outputs
+# =====================================================
+*.json
+*.csv
+*.xml
+*.gnmap
+*.nmap
 *.out
 
-# ===============================
-# Security & Sensitive Files
-# ===============================
-*.key
-*.pem
-*.crt
-*.pfx
-*.secret
-*.token
-*.cred
-*.vault
-secrets/
-credentials/
+# Allow config JSON if needed
+!alert_config.json
 
-# ===============================
-# Forensics & SOC Artifacts
-# ===============================
+# =====================================================
+# Network & Forensics Artifacts
+# =====================================================
 *.pcap
+*.pcapng
 *.evtx
 *.dmp
 *.mem
@@ -56,30 +67,66 @@ credentials/
 *.tar.gz
 *.zip
 
-# ===============================
+automated_collection_*/
+ir_collection_*/
+forensic_output/
+
+# =====================================================
+# Integrity / Hardening Artifacts
+# =====================================================
+*_baseline*.txt
+file_baselines.txt
+integrity.json
+*.pid
+crontab-security
+
+# =====================================================
+# Encrypted / Vault Files
+# =====================================================
+*.enc
+*.key
+*.pem
+*.pfx
+*.p12
+*.crt
+*.vault
+secure_vault/
+secret.key
+
+# =====================================================
 # Databases
-# ===============================
+# =====================================================
 *.db
 *.sqlite
 *.sqlite3
 
-# ===============================
-# System Files
-# ===============================
+# =====================================================
+# ML / AI Model Artifacts
+# =====================================================
+*.pkl
+models/
+
+# =====================================================
+# Temporary & Backup Files
+# =====================================================
+*.tmp
+*.bak
+*.old
+*.backup
+tmp/
+temp_files/
+backups/
+scheduled_backups/
+backup_*/
+
+# =====================================================
+# System Paths (SOC Lab Simulation)
+# =====================================================
 /tmp/*
 /var/log/*
 /opt/soc/logs/*
 /opt/soc/alerts/*
 /opt/soc/reports/*
 
-# ===============================
-# ML Models
-# ===============================
-*.pkl
-models/
-
-# ===============================
-# Backup Files
-# ===============================
-*.old
-*.backup
+# Keep placeholder files if used
+!/opt/soc/logs/.gitkeep
