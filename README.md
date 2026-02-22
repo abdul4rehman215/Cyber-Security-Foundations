@@ -113,11 +113,11 @@ The focus is on building **operational security engineering depth** — from fou
 </div>
 
 | Lab | Title | Focus |
-|-----|--------|-------|
-| 01 | Linux CLI Fundamentals | Navigation, permissions & system operations |
-| 02 | PowerShell for Security Automation | Cross-platform scripting foundations |
-| 03 | Python Automation for Security Operations | Logging, monitoring & structured outputs |
-| 04 | Bash Scripting & Scheduled Workflows | Cron automation & operational scripting |
+|-----|-------|--------|
+| 01 | [Linux CLI Fundamentals](lab01-linux-cli-basics) | Navigation, permissions & system operations |
+| 02 | [PowerShell for Security Automation](lab02-powershell-fundamentals) | Cross-platform scripting foundations |
+| 03 | [Python Automation for Security Operations](lab03-python-scripting-for-automation) | Logging, monitoring & structured outputs |
+| 04 | [Bash Scripting & Scheduled Workflows](lab04-bash-scripting-essentials) | Cron automation & operational scripting |
 
 ### Skills Demonstrated
 
@@ -148,13 +148,13 @@ Simulates daily SOC hygiene: terminal operations, permission enforcement, automa
 </div>
 
 | Lab | Title | Focus |
-|-----|--------|-------|
-| 05 | Networking Diagnostics & IP Analysis | DNS, routing & connectivity troubleshooting |
-| 06 | Port Scanning & Service Enumeration | Nmap scanning & exposure mapping |
-| 07 | Web & API Security Exploration | HTTP methods, JSON parsing & automation |
-| 08 | Version Control & Security Audit Trails | Git workflows & change tracking |
-| 09 | Automated Threat Simulation & Reporting | Structured recon automation |
-| 10 | Packet Capture & Protocol Analysis | Wireshark & TCP handshake inspection |
+|-----|-------|--------|
+| 05 | [Networking Diagnostics & IP Analysis](lab05-networking-basics-with-ip-tools) | DNS, routing & connectivity troubleshooting |
+| 06 | [Port Scanning & Service Enumeration](lab06-port-scanning-and-enumeration) | Nmap scanning & exposure mapping |
+| 07 | [Web & API Security Exploration](lab07-web-technologies-exploration) | HTTP methods, JSON parsing & automation |
+| 08 | [Version Control & Security Audit Trails](lab08-version-control-with-git) | Git workflows & change tracking |
+| 09 | [Automated Threat Simulation & Reporting](lab09-basic-threat-simulation) | Structured recon automation |
+| 10 | [Packet Capture & Protocol Analysis](lab10-introduction-to-wireshark) | Wireshark & TCP handshake inspection |
 
 ### 🧠 Core Engineering Skills
 
@@ -188,11 +188,11 @@ Ability to move from:
 </div>
 
 | Lab | Title | Focus |
-|-----|--------|-------|
-| 11 | Linux System Hardening & Firewall Enforcement | UFW, SSH hardening & monitoring |
-| 12 | Windows Security Hardening with PowerShell | Cross-platform defensive automation |
-| 13 | File Integrity Monitoring Implementation | auditd & real-time FIM |
-| 14 | Cryptography Engineering with Python | AES encryption, hashing & secure vault design |
+|-----|-------|--------|
+| 11 | [Linux System Hardening & Firewall Enforcement](lab11-linux-security-hardening) | UFW, SSH hardening & monitoring |
+| 12 | [Windows Security Hardening with PowerShell](lab12-windows-security-hardening-powershell) | Cross-platform defensive automation |
+| 13 | [File Integrity Monitoring Implementation](lab13-file-integrity-monitoring) | auditd & real-time FIM |
+| 14 | [Cryptography Engineering with Python](lab14-cryptography-with-python) | AES encryption, hashing & secure vault design |
 
 ### 🧠 Skills Demonstrated
 
@@ -230,13 +230,13 @@ Ability to move from:
 </div>
 
 | Lab | Title | Focus |
-|-----|--------|-------|
-| 15 | Incident Response Lifecycle Simulation | NIST-aligned IR execution |
-| 16 | Linux Forensics Automation | Artifact extraction & evidence scripting |
-| 17 | Windows Forensics & Log Analysis | EVTX & registry artifact parsing |
-| 18 | AI-Driven Threat Detection Engineering | ML-based anomaly detection |
-| 19 | Security Automation & Patch Governance | Update lifecycle orchestration |
-| 20 | Final SOC Engineering Simulation | End-to-end detection & response architecture |
+|-----|-------|--------|
+| 15 | [Incident Response Lifecycle Simulation](lab15-basic-incident-response-simulation) | NIST-aligned IR execution |
+| 16 | [Linux Forensics Automation](lab16-linux-forensics-automation) | Artifact extraction & evidence scripting |
+| 17 | [Windows Forensics & Log Analysis](lab17-windows-forensics-automation) | EVTX & registry artifact parsing |
+| 18 | [AI-Driven Threat Detection Engineering](lab18-ai-driven-threat-detection) | ML-based anomaly detection |
+| 19 | [Security Automation & Patch Governance](lab19-security-automation-patch-management) | Update lifecycle orchestration |
+| 20 | [Final SOC Engineering Simulation](lab20-final-soc-simulation) | End-to-end detection & response architecture |
 
 ### 🧠 Skills Demonstrated
 
