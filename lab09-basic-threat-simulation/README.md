@@ -1,7 +1,7 @@
 # 🧪 Lab 09: Basic Threat Simulation
 
 ## 🎯 Objectives
-By the end of this lab, students will be able to:
+By the end of this lab, I was able to:
 - Understand fundamentals of network reconnaissance
 - Perform comprehensive scans using Nmap
 - Identify and enumerate open ports and services
