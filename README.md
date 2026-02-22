@@ -47,7 +47,7 @@ This repository simulates enterprise-grade defensive security workflows — prog
 
 ---
 
-# 📌 Executive Summary
+# 🎯 Executive Summary
 
 This repository presents a structured **20-lab Cyber Security Foundations program** designed to simulate real-world SOC, DFIR, and security automation workflows.
 
@@ -71,7 +71,7 @@ This repository reflects **practical security engineering capability** — not t
 
 ---
 
-## 🧠 About This Repository
+## 📌 About This Repository
 
 This is a hands-on security engineering portfolio built around 20 progressive labs that mirror modern enterprise Blue Team operations.
 
