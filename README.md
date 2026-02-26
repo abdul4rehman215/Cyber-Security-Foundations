@@ -2,11 +2,11 @@
 
 > SOC Engineering • Detection Engineering • DFIR • Security Automation • AI-Driven Analytics
 
-A structured 20-lab, hands-on security engineering portfolio covering:
+### A structured 20-lab, hands-on security engineering portfolio covering:
 
-*CLI Mastery → Recon & Analysis → Hardening & Cryptography → SOC, DFIR & Automation*
+> *CLI Mastery → Recon & Analysis → Hardening & Cryptography → SOC, DFIR & Automation*
 
-This repository simulates enterprise-grade defensive security workflows — progressing from foundational system operations to full Security Operations Center (SOC) integration and automated incident response.
+### This repository simulates enterprise-grade defensive security workflows — progressing from foundational system operations to full Security Operations Center (SOC) integration and automated incident response.
 
 ---
 
