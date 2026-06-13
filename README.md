@@ -649,6 +649,15 @@ Misuse of the techniques demonstrated in this repository outside legally authori
 
 This repository is provided solely for educational, professional development, and responsible security engineering purposes.
 
+---
+
+## 🌐 Labs Portfolio Post on LinkedIn
+
+I also shared this Lab series Portfolio on LinkedIn with a concise portfolio summary, key highlights, and implementation context.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-View%20Project%20Post-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/posts/abdul4rehman215_cybersecurity-socanalyst-blueteam-activity-7412801388126232576-tJRa?)
+
+---
 
 # ⭐ Final Note
 
